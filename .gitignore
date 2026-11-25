@@ -1,0 +1,8 @@
+# OpenSpec & Agents
+.agent/
+.agents/
+openspec/
+
+# OS metadata
+.DS_Store
+Thumbs.db
